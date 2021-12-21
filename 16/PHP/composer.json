@@ -1,0 +1,17 @@
+{
+    "name": "iamzu/php",
+    "authors": [
+        {
+            "name": "iamzu",
+            "email": "rn1408@126.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PHP\\": "PHP/",
+            "PHP\\Original\\": "PHP/Original"
+
+        }
+    },
+    "require": {}
+}
